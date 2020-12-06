@@ -27,9 +27,11 @@ The username is their name and password for everyone is 'project123'.
 
 Example usernames:  
 student- 'samarth'  
-teacher- 'trisila'  
+teacher- 'trisila'
 
-You can access the django admin page at **http://127.0.0.1:8000/admin** and login with username 'admin' and the above password.
+All usernames are given at the end.
+
+You can access the django admin page at **http://127.0.0.1:8000/admin** and login with username 'Shishir' and password 'Project@123'
 
 Also a new admin user can be created using
 
@@ -45,7 +47,7 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 **For more details regarding the system and features please refer the reports included.**
 
-## Update
+## Update (29/11/2020)
 
 Added method to reset attendance time range in Django Admin page.
 
@@ -94,3 +96,76 @@ This will delete all present attendance data and create new attendance objects f
 ![alt text](https://imgur.com/tMKWx6f.png)
 
 ![alt text](https://imgur.com/PvCsNeB.png)
+
+## List of usernames
+
+Username | Admin
+---------|---------
+Shishir	| True
+aayan | False
+abby | False
+amc	| False
+anilkumar | False
+anna | False
+anudeep | False
+ariella	| False
+ashleigh | False
+axel | False
+bodhi | False
+boss | False
+brooklyn | False
+dakshath | False
+dennis | False
+dustin | False
+eliza | False
+envteacher | False
+farhan | False
+gary | False
+guru | False
+hugo | False
+jensen | False
+jillian	| False
+joel | False
+joy	| False
+kaya | False
+keenan | False
+kirstie	| False
+latisha	| False
+lindsay	| False
+lorcan	| False
+maci | False
+maison | False
+manimala | False
+manisha	| False
+manjula	| False
+manjunath | False
+martin | False
+ned | False
+nihal | False
+nikhil | False
+osama | False
+paisley	| False
+rachel | False
+rajat | False
+renu | False
+rian | False
+ronaldo	| False
+roopamala | False
+samantha | False
+samarth	| False
+sapphire | False
+shahid | False
+shalini	| False
+shanice	| False
+sheela	| False
+shravan	| False
+sol	| False
+srinath	| False
+steven | False
+tayla | False
+tejus | False
+trisila	| False
+usha | False
+varsha | False
+vijeth | False
+zara | False
